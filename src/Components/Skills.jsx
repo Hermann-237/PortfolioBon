@@ -6,7 +6,7 @@ function Skills() {
       <div className="container">
         <div className="section-title">
           <h2>Kenntnisse</h2>
-          <p>Here befinden Sie alles meine Fertigkeiten</p>
+          <p>Hier befinden sich alles über meine Fertigkeiten</p>
         </div>
 
         <div className="row skills-content">
@@ -18,9 +18,9 @@ function Skills() {
               <span className="skill">
                 REACT & REDUX <i className="val">75%</i>
               </span>
-              <div class="progress-bar-wrap">
+              <div className="progress-bar-wrap">
                 <div
-                  class="progress-bar bg-info"
+                  className="progress-bar bg-info"
                   role="progressbar"
                   style={{ width: "75%" }}
                   aria-valuenow="50"
@@ -34,9 +34,9 @@ function Skills() {
               <span className="skill">
                 JAVASCRIPT <i className="val">85%</i>
               </span>
-              <div class="progress-bar-wrap">
+              <div className="progress-bar-wrap">
                 <div
-                  class="progress-bar bg-info"
+                  className="progress-bar bg-info"
                   role="progressbar"
                   style={{ width: "85%" }}
                   aria-valuenow="50"
@@ -49,9 +49,9 @@ function Skills() {
               <span className="skill">
                 JQUERY <i className="val">65%</i>
               </span>
-              <div class="progress-bar-wrap">
+              <div className="progress-bar-wrap">
                 <div
-                  class="progress-bar bg-info"
+                  className="progress-bar bg-info"
                   role="progressbar"
                   style={{ width: "65%" }}
                   aria-valuenow="50"
@@ -64,9 +64,9 @@ function Skills() {
               <span className="skill">
                 BOOTSTRAP <i className="val">85%</i>
               </span>
-              <div class="progress-bar-wrap">
+              <div className="progress-bar-wrap">
                 <div
-                  class="progress-bar bg-info"
+                  className="progress-bar bg-info"
                   role="progressbar"
                   style={{ width: "85%" }}
                   aria-valuenow="50"
@@ -80,9 +80,9 @@ function Skills() {
               <span className="skill">
                 Ejs <i className="val">90%</i>
               </span>
-              <div class="progress-bar-wrap">
+              <div className="progress-bar-wrap">
                 <div
-                  class="progress-bar bg-info"
+                  className="progress-bar bg-info"
                   role="progressbar"
                   style={{ width: "90%" }}
                   aria-valuenow="50"
@@ -95,9 +95,9 @@ function Skills() {
               <span className="skill">
                 HTML5 & Css3 <i className="val">90%</i>
               </span>
-              <div class="progress-bar-wrap">
+              <div className="progress-bar-wrap">
                 <div
-                  class="progress-bar bg-info"
+                  className="progress-bar bg-info"
                   role="progressbar"
                   style={{ width: "90%" }}
                   aria-valuenow="50"
@@ -116,9 +116,9 @@ function Skills() {
               <span className="skill">
                 NODE JS & EXPRESS JS <i className="val">80%</i>
               </span>
-              <div class="progress-bar-wrap">
+              <div className="progress-bar-wrap">
                 <div
-                  class="progress-bar bg-info"
+                  className="progress-bar bg-info"
                   role="progressbar"
                   style={{ width: "80%" }}
                   aria-valuenow="50"
@@ -132,9 +132,9 @@ function Skills() {
               <span className="skill">
                 MONGODB <i className="val">85%</i>
               </span>
-              <div class="progress-bar-wrap">
+              <div className="progress-bar-wrap">
                 <div
-                  class="progress-bar bg-info"
+                  className="progress-bar bg-info"
                   role="progressbar"
                   style={{ width: "85%" }}
                   aria-valuenow="50"
@@ -147,9 +147,9 @@ function Skills() {
               <span className="skill">
                 MONGOOSE <i className="val">70%</i>
               </span>
-              <div class="progress-bar-wrap">
+              <div className="progress-bar-wrap">
                 <div
-                  class="progress-bar bg-info"
+                  className="progress-bar bg-info"
                   role="progressbar"
                   style={{ width: "70%" }}
                   aria-valuenow="50"
@@ -163,9 +163,9 @@ function Skills() {
               <span className="skill">
                 FIREBASE <i className="val">40%</i>
               </span>
-              <div class="progress-bar-wrap">
+              <div className="progress-bar-wrap">
                 <div
-                  class="progress-bar bg-info"
+                  className="progress-bar bg-info"
                   role="progressbar"
                   style={{ width: "40%" }}
                   aria-valuenow="50"

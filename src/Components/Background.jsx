@@ -5,8 +5,8 @@ import Typed from "react-typed";
 function Background() {
   return (
     <div id="hero">
-      <section class="d-flex flex-column justify-content-center align-items-center">
-        <div class="hero-container" data-aos="fade-in">
+      <section className="d-flex flex-column justify-content-center align-items-center">
+        <div className="hero-container" data-aos="fade-in">
           <div>
             <Typed
               strings={["Hallo! Ich bin Hermann"]}

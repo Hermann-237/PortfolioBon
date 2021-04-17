@@ -2,33 +2,32 @@ import React from "react";
 
 function Contact() {
   return (
-    <section id="contact" class="contact">
-      <div class="container">
-        <div class="section-title">
+    <section id="contact" className="contact">
+      <div className="container">
+        <div className="section-title">
           <h2>Kontakt</h2>
           <p>
-            wenn Sie eine schnelle Antwort haben möchten, kontaktieren Sie mich
-            bitte am besten per E-Mail oder rufen Sie mich einfach an.
+            Bei Fragen, können Sie mich bei der untergegebene Details erreichen.
           </p>
         </div>
 
-        <div class="row" data-aos="fade-in">
-          <div class="col-lg-12 d-flex align-items-stretch">
-            <div class="info">
-              <div class="address">
-                <i class="icofont-google-map"></i>
+        <div className="row" data-aos="fade-in">
+          <div className="col-lg-12 d-flex align-items-stretch">
+            <div className="info">
+              <div className="address">
+                <i className="icofont-google-map"></i>
                 <h4>Adresse:</h4>
                 <p>Am Meilenstein 10 , 04159 Leipzig</p>
               </div>
 
-              <div class="email">
-                <i class="icofont-envelope"></i>
+              <div className="email">
+                <i className="icofont-envelope"></i>
                 <h4>Email:</h4>
                 <p>hermann.webdev@gmail.com</p>
               </div>
 
-              <div class="phone">
-                <i class="icofont-phone"></i>
+              <div className="phone">
+                <i className="icofont-phone"></i>
                 <h4>Handynummer:</h4>
                 <p>+49(0)1722846967</p>
               </div>

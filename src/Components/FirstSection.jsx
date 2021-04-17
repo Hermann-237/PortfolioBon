@@ -5,9 +5,9 @@ function FirstSection() {
   return (
     <section
       id="hero"
-      class="d-flex flex-column justify-content-center align-items-center"
+      className="d-flex flex-column justify-content-center align-items-center"
     >
-      <div class="hero-container" data-aos="fade-in">
+      <div className="hero-container" data-aos="fade-in">
         <div>
           <Typed
             strings={["Hey! Ich bin Hermann"]}

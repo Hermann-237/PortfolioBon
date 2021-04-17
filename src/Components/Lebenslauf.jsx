@@ -8,7 +8,7 @@ function Lebenslauf() {
             Netzwerktechniker mit zwei Jahren Erfahrung in der IT-Branche.
             Stressresistent und geübt im Umgang mit Kunden. Auf der Suche nach
             einer Position bei der, die Fähigkeiten und das Wissen im Bereich
-            Web Development genutzt (und verbessert?) werden können.
+            Web Development genutzt werden können.
           </p>
         </div>
 
