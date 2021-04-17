@@ -12,7 +12,7 @@ function Skills() {
         <div className="row skills-content">
           <div className="col-lg-6" data-aos="fade-up">
             <div className="section-title">
-              <h2>Frondend</h2>
+              <h2>Frontend</h2>
             </div>
             <div className="progress">
               <span className="skill">
