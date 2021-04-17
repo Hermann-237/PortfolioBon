@@ -60,6 +60,21 @@ function Skills() {
                 ></div>
               </div>
             </div>
+            <div className="progress">
+              <span className="skill">
+                BOOTSTRAP <i className="val">85%</i>
+              </span>
+              <div class="progress-bar-wrap">
+                <div
+                  class="progress-bar bg-info"
+                  role="progressbar"
+                  style={{ width: "85%" }}
+                  aria-valuenow="50"
+                  aria-valuemin="0"
+                  aria-valuemax="100"
+                ></div>
+              </div>
+            </div>
 
             <div className="progress">
               <span className="skill">
