@@ -13,7 +13,7 @@ function Project() {
 
         <div className="row">
           <div className=" col-md-6 icon-box" data-aos="fade-up">
-            <div className="card" style={{ width: "30rem" }}>
+            <div className="card cardBon">
               <img
                 src="assets/img/project1.png"
                 className="card-img-top"
@@ -29,22 +29,15 @@ function Project() {
                 <p className="card-text">
                   <ul style={{ listStyle: "none" }}>
                     <li>
-                      <p>
-                        <b className="text-primary">Backend:</b> Node Js,
-                        MongoDb, Mongoose, Express Js
-                      </p>
+                      <b className="text-primary">Backend:</b> Node Js, MongoDb,
+                      Mongoose, Express Js
                     </li>
                     <li>
-                      <p>
-                        <b className="text-primary">Frontend:</b> React,
-                        Bootstrap
-                      </p>
+                      <b className="text-primary">Frontend:</b> React, Bootstrap
                     </li>
                     <li>
-                      <p>
-                        <b className="text-primary">Deploy:</b> Dieses Projekt
-                        wurde auf Github bereitgestellt
-                      </p>
+                      <b className="text-primary">Deploy:</b> Dieses Projekt
+                      wurde auf Github bereitgestellt
                     </li>
                   </ul>
                 </p>
@@ -59,7 +52,7 @@ function Project() {
                 <hr />
                 <a
                   href="https://github.com/Hermann-237/frontend-hermann-shop"
-                  className="btn btn-warning mr-4"
+                  className="btn btn-secondary  w-100 mb-2 "
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -67,7 +60,7 @@ function Project() {
                 </a>
                 <a
                   href="https://hermann-237.github.io/frontend-hermann-shop/"
-                  className="btn btn-success"
+                  className="btn btn-primary w-100"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -78,7 +71,7 @@ function Project() {
           </div>
           {/* le deuxieme */}
           <div className=" col-md-6 icon-box" data-aos="fade-up">
-            <div className="card" style={{ width: "30rem" }}>
+            <div className="card">
               <img
                 src="assets/img/project2.png"
                 className="card-img-top"
@@ -94,22 +87,15 @@ function Project() {
                 <p className="card-text">
                   <ul style={{ listStyle: "none" }}>
                     <li>
-                      <p>
-                        <b className="text-primary">Backend:</b> Node Js,
-                        MongoDb, Mongoose, Express Js
-                      </p>
+                      <b className="text-primary">Backend:</b> Node Js, MongoDb,
+                      Mongoose, Express Js
                     </li>
                     <li>
-                      <p>
-                        <b className="text-primary">Frontend:</b> React,
-                        Bootstrap
-                      </p>
+                      <b className="text-primary">Frontend:</b> React, Bootstrap
                     </li>
                     <li>
-                      <p>
-                        <b className="text-primary">Deploy:</b> Dieses Projekt
-                        wurde auf Digitalocean bereitgestellt
-                      </p>
+                      <b className="text-primary">Deploy:</b> Dieses Projekt
+                      wurde auf Digitalocean bereitgestellt
                     </li>
                   </ul>
                 </p>
@@ -122,7 +108,7 @@ function Project() {
                 <hr />
                 <a
                   href="https://github.com/Hermann-237/simo"
-                  className="btn btn-warning mr-4"
+                  className="btn btn-secondary  w-100 mb-2"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -130,7 +116,7 @@ function Project() {
                 </a>
                 <a
                   href="https://www.simplecyto.com/"
-                  className="btn btn-success"
+                  className="btn btn-primary w-100"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -141,7 +127,7 @@ function Project() {
           </div>
           {/* le troisieme */}
           <div className=" col-md-6 icon-box" data-aos="fade-up">
-            <div className="card" style={{ width: "30rem" }}>
+            <div className="card">
               <img
                 src="assets/img/project3.png"
                 className="card-img-top"
@@ -159,22 +145,15 @@ function Project() {
                 <p className="card-text">
                   <ul style={{ listStyle: "none" }}>
                     <li>
-                      <p>
-                        <b className="text-primary">Backend:</b> Node Js,
-                        MongoDb, Mongoose, Express Js, Jsonwebtoken,
-                        Cookie-parser, Bcrypt
-                      </p>
+                      <b className="text-primary">Backend:</b> Node Js, MongoDb,
+                      Mongoose, Express Js, Jsonwebtoken, Cookie-parser, Bcrypt
                     </li>
                     <li>
-                      <p>
-                        <b className="text-primary">Frontend:</b> Bootstrap, Ejs
-                      </p>
+                      <b className="text-primary">Frontend:</b> Bootstrap, Ejs
                     </li>
                     <li>
-                      <p>
-                        <b className="text-primary">Deploy:</b> Dieses Projekt
-                        wurde auf Heroku bereitgestellt
-                      </p>
+                      <b className="text-primary">Deploy:</b> Dieses Projekt
+                      wurde auf Heroku bereitgestellt
                     </li>
                   </ul>
                 </p>
@@ -187,7 +166,7 @@ function Project() {
                 <hr />
                 <a
                   href="https://github.com/Hermann-237/seeProducts"
-                  className="btn btn-warning mr-4"
+                  className="btn btn-secondary  w-100 mb-2"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -195,7 +174,7 @@ function Project() {
                 </a>
                 <a
                   href="https://herman02.herokuapp.com/"
-                  className="btn btn-success"
+                  className="btn btn-primary w-100"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -206,7 +185,7 @@ function Project() {
           </div>
           {/* le quatrieme */}
           <div className=" col-md-6 icon-box" data-aos="fade-up">
-            <div className="card" style={{ width: "30rem" }}>
+            <div className="card">
               <img
                 src="assets/img/project4.png"
                 className="card-img-top"
@@ -222,22 +201,16 @@ function Project() {
                 <p className="card-text">
                   <ul style={{ listStyle: "none" }}>
                     <li>
-                      <p>
-                        <b className="text-primary">Backend:</b> Ich habe die
-                        Daten auf dieser Website{" "}
-                        <strong>api.cryptonator.com </strong> abgeholt
-                      </p>
+                      <b className="text-primary">Backend:</b> Ich habe die
+                      Daten auf dieser Website{" "}
+                      <strong>api.cryptonator.com </strong> abgeholt
                     </li>
                     <li>
-                      <p>
-                        <b className="text-primary">Frontend:</b> Bootstrap
-                      </p>
+                      <b className="text-primary">Frontend:</b> Bootstrap
                     </li>
                     <li>
-                      <p>
-                        <b className="text-primary">Deploy:</b> Dieses Projekt
-                        wurde auf Github bereitgestellt
-                      </p>
+                      <b className="text-primary">Deploy:</b> Dieses Projekt
+                      wurde auf Github bereitgestellt
                     </li>
                   </ul>
                 </p>
@@ -250,7 +223,7 @@ function Project() {
                 <hr />
                 <a
                   href="https://github.com/Hermann-237/crypto-rate"
-                  className="btn btn-warning mr-4"
+                  className="btn btn-secondary  w-100 mb-2"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -258,7 +231,7 @@ function Project() {
                 </a>
                 <a
                   href="https://hermann-237.github.io/crypto-rate/"
-                  className="btn btn-success"
+                  className="btn btn-primary w-100"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -269,7 +242,7 @@ function Project() {
           </div>
           {/* le cinquieme */}
           <div className=" col-md-6 icon-box" data-aos="fade-up">
-            <div className="card" style={{ width: "30rem" }}>
+            <div className="card">
               <img
                 src="assets/img/project5.png"
                 className="card-img-top"
@@ -285,16 +258,12 @@ function Project() {
                 <p className="card-text">
                   <ul style={{ listStyle: "none" }}>
                     <li>
-                      <p>
-                        <b className="text-primary">Frontend:</b> Bootstrap und
-                        vanille Javascript (DOM)
-                      </p>
+                      <b className="text-primary">Frontend:</b> Bootstrap und
+                      vanille Javascript (DOM)
                     </li>
                     <li>
-                      <p>
-                        <b className="text-primary">Deploy:</b> Dieses Projekt
-                        wurde auf Github bereitgestellt
-                      </p>
+                      <b className="text-primary">Deploy:</b> Dieses Projekt
+                      wurde auf Github bereitgestellt
                     </li>
                   </ul>
                 </p>
@@ -307,7 +276,7 @@ function Project() {
                 <hr />
                 <a
                   href="https://github.com/Hermann-237/calculator"
-                  className="btn btn-warning mr-4"
+                  className="btn btn-secondary  w-100 mb-2"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -315,7 +284,7 @@ function Project() {
                 </a>
                 <a
                   href="https://hermann-237.github.io/calculator/"
-                  className="btn btn-success"
+                  className="btn btn-primary w-100"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -326,7 +295,7 @@ function Project() {
           </div>
           {/* le sixieme */}
           <div className=" col-md-6 icon-box" data-aos="fade-up">
-            <div className="card" style={{ width: "30rem" }}>
+            <div className="card">
               <img
                 src="assets/img/project6.png"
                 className="card-img-top"
@@ -342,23 +311,16 @@ function Project() {
                 <p className="card-text">
                   <ul style={{ listStyle: "none" }}>
                     <li>
-                      <p>
-                        <b className="text-primary">Backend:</b> Node Js,
-                        MongoDb, Mongoose, Express Js, Jsonwebtoken,
-                        Cookie-parser, Bcrypt
-                      </p>
+                      <b className="text-primary">Backend:</b> Node Js, MongoDb,
+                      Mongoose, Express Js, Jsonwebtoken, Cookie-parser, Bcrypt
                     </li>
                     <li>
-                      <p>
-                        <b className="text-primary">Frontend:</b> Ich habe
-                        Postman benutzt, um das Ergebnis zu sehen
-                      </p>
+                      <b className="text-primary">Frontend:</b> Ich habe Postman
+                      benutzt, um das Ergebnis zu sehen
                     </li>
                     <li>
-                      <p>
-                        <b className="text-primary">Deploy:</b> Dieses Projekt
-                        wurde auf Github bereitgestellt
-                      </p>
+                      <b className="text-primary">Deploy:</b> Dieses Projekt
+                      wurde auf Github bereitgestellt
                     </li>
                   </ul>
                 </p>
@@ -371,7 +333,7 @@ function Project() {
                 <hr />
                 <a
                   href="https://github.com/Hermann-237/smallBankApp"
-                  className="btn btn-warning mr-4"
+                  className="btn btn-secondary  w-100 mb-2"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -383,7 +345,7 @@ function Project() {
 
           {/* le septieme */}
           <div className=" col-md-6 icon-box" data-aos="fade-up">
-            <div className="card" style={{ width: "30rem" }}>
+            <div className="card">
               <img
                 src="assets/img/project7.png"
                 className="card-img-top"
@@ -399,11 +361,9 @@ function Project() {
                 <p className="card-text">
                   <ul style={{ listStyle: "none" }}>
                     <li>
-                      <p>
-                        <b className="text-primary">Backend:</b> Ich habe die
-                        Daten auf dieser Website{" "}
-                        <strong>www.omdbapi.com </strong> abgeholt
-                      </p>
+                      <b className="text-primary">Backend:</b> Ich habe die
+                      Daten auf dieser Website <strong>www.omdbapi.com </strong>{" "}
+                      abgeholt
                     </li>
                     <li>
                       <p>
@@ -412,10 +372,8 @@ function Project() {
                       </p>
                     </li>
                     <li>
-                      <p>
-                        <b className="text-primary">Deploy:</b> Dieses Projekt
-                        wurde auf Github bereitgestellt
-                      </p>
+                      <b className="text-primary">Deploy:</b> Dieses Projekt
+                      wurde auf Github bereitgestellt
                     </li>
                   </ul>
                 </p>
@@ -429,7 +387,7 @@ function Project() {
                 <hr />
                 <a
                   href="https://github.com/Hermann-237/storeMovieBrowser"
-                  className="btn btn-warning mr-4"
+                  className="btn btn-secondary  w-100 mb-2"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -441,7 +399,7 @@ function Project() {
 
           {/* le huitieme */}
           <div className=" col-md-6 icon-box" data-aos="fade-up">
-            <div className="card" style={{ width: "30rem" }}>
+            <div className="card">
               <img
                 src="assets/img/project8.png"
                 className="card-img-top"
@@ -457,16 +415,12 @@ function Project() {
                 <p className="card-text">
                   <ul style={{ listStyle: "none", height: "200px" }}>
                     <li>
-                      <p>
-                        <b className="text-primary">Frontend:</b> Vanille
-                        Javascript(DOM), Html5 und CSS3
-                      </p>
+                      <b className="text-primary">Frontend:</b> Vanille
+                      Javascript(DOM), Html5 und CSS3
                     </li>
                     <li>
-                      <p>
-                        <b className="text-primary">Deploy:</b> Dieses Projekt
-                        wurde auf Github bereitgestellt
-                      </p>
+                      <b className="text-primary">Deploy:</b> Dieses Projekt
+                      wurde auf Github bereitgestellt
                     </li>
                   </ul>
                 </p>
@@ -481,7 +435,7 @@ function Project() {
                 <hr />
                 <a
                   href="https://github.com/Hermann-237/BankRecept"
-                  className="btn btn-warning mr-4"
+                  className="btn btn-secondary  w-100 mb-2"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -489,7 +443,7 @@ function Project() {
                 </a>
                 <a
                   href="https://hermann-237.github.io/BankRecept/"
-                  className="btn btn-success"
+                  className="btn btn-primary w-100"
                   target="_blank"
                   rel="noreferrer"
                 >

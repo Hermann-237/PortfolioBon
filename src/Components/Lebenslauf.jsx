@@ -63,21 +63,18 @@ function Lebenslauf() {
               <p>
                 <em> Euro-Schulen, Leipzig</em>
               </p>
-              <p>
-                <ul style={{ listStyleType: "none" }}>
-                  <li>
-                    <ul>
-                      <li>
-                        Leben in Deutschland Kurs mit 30/30 Punkten
-                        abgeschlossen
-                      </li>
-                      <li>
-                        Deutsch Sprachkurs mit 238.5/300 Punkten abgeschlossen
-                      </li>
-                    </ul>{" "}
-                  </li>
-                </ul>
-              </p>
+              <ul style={{ listStyleType: "none" }}>
+                <li>
+                  <ul>
+                    <li>
+                      Leben in Deutschland Kurs mit 30/30 Punkten abgeschlossen
+                    </li>
+                    <li>
+                      Deutsch Sprachkurs mit 238.5/300 Punkten abgeschlossen
+                    </li>
+                  </ul>{" "}
+                </li>
+              </ul>
             </div>
             <div className="resume-item">
               <h4>Telekommunikation und Netzwerk </h4>
@@ -115,19 +112,17 @@ function Lebenslauf() {
               <p>
                 <em>Internetcafe Balengou in Kamerun</em>
               </p>
-              <p>
-                <ul style={{ listStyleType: "none" }}>
-                  <li>
-                    <ul>
-                      <li>
-                        Router setting, Anordnung der Computerräume,
-                        Netzwerkadministration
-                      </li>
-                      <li>Wartung von Computer Systemen</li>
-                    </ul>{" "}
-                  </li>
-                </ul>
-              </p>
+              <ul style={{ listStyleType: "none" }}>
+                <li>
+                  <ul>
+                    <li>
+                      Router setting, Anordnung der Computerräume,
+                      Netzwerkadministration
+                    </li>
+                    <li>Wartung von Computer Systemen</li>
+                  </ul>{" "}
+                </li>
+              </ul>
             </div>
             <div className="resume-item">
               <h4> Handelsvertreter</h4>

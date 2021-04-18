@@ -1111,3 +1111,24 @@ section {
 /* le deuxieme  
 
 ----------------------------------------------*/
+/* <Particles
+  params={{
+    particles: {
+      number: {
+        value: 10,
+      },
+      size: {
+        value: 5,
+      },
+    },
+    interactivity: {
+      events: {
+        onHover: {
+          enable: true,
+          mode: "repulse",
+        },
+      },
+    },
+  }}
+  height="70vh"
+/>; */

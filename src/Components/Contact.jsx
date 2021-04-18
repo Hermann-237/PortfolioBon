@@ -34,9 +34,9 @@ function Contact() {
 
               <iframe
                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2490.4745381018834!2d12.319704716002725!3d51.375955979613764!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a65880e0eb79cf%3A0xa23f6f8e754caa57!2sAm%20Meilenstein%2010%2C%2004159%20Leipzig!5e0!3m2!1sfr!2sde!4v1617821763298!5m2!1sfr!2sde"
-                frameborder="0"
+                frameBorder="0"
                 style={{ border: "0", width: "100%", height: "290px" }}
-                allowfullscreen
+                allowFullScreen
                 title="hermann-map"
               ></iframe>
             </div>
