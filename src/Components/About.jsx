@@ -25,7 +25,7 @@ function About() {
                 <ul>
                   <li>
                     <i className="icofont-rounded-right"></i>{" "}
-                    <strong>Geburststag:</strong> 2. Febuar 1989
+                    <strong>Geburststag:</strong> 8. Febuar 1989
                   </li>
                   <li>
                     <i className="icofont-rounded-right"></i>{" "}
