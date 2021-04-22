@@ -1,3 +1,5 @@
+
+import './App.css';
 import Header from "./Components/Header"
 import Background from "./Components/Background"
 import About from "./Components/About"
