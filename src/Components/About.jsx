@@ -58,7 +58,7 @@ function About() {
                   </li>
                   <li>
                     <i className="icofont-rounded-right"></i>{" "}
-                    <strong>Verfügbar: </strong> ab 16-07-2021
+                    <strong>Verfügbar: </strong> Ab sofort
                   </li>
                 </ul>
               </div>
