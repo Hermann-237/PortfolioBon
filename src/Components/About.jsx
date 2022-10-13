@@ -12,7 +12,7 @@ function About() {
             {`Mein Name ist Hermann Tamouya Totim, gebürtiger Kameruner, der seit
             ${timeLivingInGerman} Jahren in Deutschland lebt. Ich habe im Laufe
             der Jahre viel Erfahrung in Telekommunikation und Netzwerk
-            gesammelt. Im Mai 2021, absolviere ich einen Kurs am Digital
+            gesammelt. Im Mai 2021, absolvierte ich einen Kurs am Digital
             Career Institute (DCI) in Richtung Full Stack Delevoper und dieser
             Bereich hat eine große Leidenschaft für mich entwickelt. Seit Mai 2021 arbeite ich  als Frontend Developer bei eClever Entwicklung OHG.`}
           </p>

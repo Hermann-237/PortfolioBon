@@ -10,8 +10,9 @@ function Header() {
             alt=""
             className="img-fluid rounded-circle"
           />
-          <h1 className="text-light">
-            <a href="index.html">Hermann Tamouya Totim</a>
+          <h1 style={{ fontSize: "16px", color: "white", lineHeight: "8px" }}>
+            <p>Hermann Tamouya Totim</p>
+            <p>(Softwareentwickler)</p>
           </h1>
           <div className="social-links mt-3 text-center">
             <a
