@@ -16,7 +16,8 @@ function Skills() {
             </div>
             <div className="progress">
               <span className="skill">
-                REACT & REDUX <i className="val">75%</i>
+                REACT, REACT-QUERY, ZUSTAND, REACT-HOOK-FORM and REDUX{" "}
+                <i className="val">75%</i>
               </span>
               <div className="progress-bar-wrap">
                 <div
@@ -32,7 +33,7 @@ function Skills() {
 
             <div className="progress">
               <span className="skill">
-                JAVASCRIPT <i className="val">85%</i>
+                JAVASCRIPT & TYPESCRIPT <i className="val">85%</i>
               </span>
               <div className="progress-bar-wrap">
                 <div
@@ -62,7 +63,7 @@ function Skills() {
             </div>
             <div className="progress">
               <span className="skill">
-                BOOTSTRAP <i className="val">85%</i>
+                BOOTSTRAP, TAILWINDCSS, TWIN-MACRO <i className="val">85%</i>
               </span>
               <div className="progress-bar-wrap">
                 <div
@@ -93,7 +94,23 @@ function Skills() {
             </div>
             <div className="progress">
               <span className="skill">
-                HTML5 & Css3 <i className="val">90%</i>
+                HTML5 & CSS3 <i className="val">90%</i>
+              </span>
+              <div className="progress-bar-wrap">
+                <div
+                  className="progress-bar bg-info"
+                  role="progressbar"
+                  style={{ width: "90%" }}
+                  aria-valuenow="50"
+                  aria-valuemin="0"
+                  aria-valuemax="100"
+                ></div>
+              </div>
+            </div>
+            <div className="progress">
+              <span className="skill">
+                GITHUB, BITBUCKET, JIRA, FIGMA, SWAGGER, CONFLUENCE{" "}
+                <i className="val">90%</i>
               </span>
               <div className="progress-bar-wrap">
                 <div

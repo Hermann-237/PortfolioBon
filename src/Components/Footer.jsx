@@ -1,13 +1,14 @@
 import React from "react";
 
 function Footer() {
+  const date = new Date().getFullYear();
   return (
     <footer id="footer">
       <div className="container">
         <div className="copyright">
           Copyright &copy;
           <strong>
-            <span> Hermannwebdev - 2021</span>
+            <span> Hermannwebdev - {date}</span>
           </strong>
         </div>
       </div>

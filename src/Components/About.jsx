@@ -1,19 +1,20 @@
 import React from "react";
 
 function About() {
+  const age = new Date().getFullYear() - 1989;
+  const timeLivingInGerman = new Date().getFullYear() - 2018;
   return (
     <section id="about" className="about">
       <div className="container">
         <div className="section-title">
           <h2>Über mich</h2>
           <p>
-            Mein Name ist Hermann Tamouya Totim, gebürtiger Kameruner, der seit
-            drei Jahren in Deutschland lebt. Ich habe im Laufe der Jahre viel
-            Erfahrung in Telekommunikation und Netzwerk gesammelt. Seit einem
-            Jahr absolviere ich einen Kurs am Digital Career Institute (DCI) in
-            Richtung Full Stack Delevoper und dieser Bereich hat eine große
-            Leidenschaft für mich entwickelt. Ich habe kürzlich meine
-            Weiterbildung zum Webentwickler abgeschlossen.
+            {`Mein Name ist Hermann Tamouya Totim, gebürtiger Kameruner, der seit
+            ${timeLivingInGerman} Jahren in Deutschland lebt. Ich habe im Laufe
+            der Jahre viel Erfahrung in Telekommunikation und Netzwerk
+            gesammelt. Im Mai 2021, absolviere ich einen Kurs am Digital
+            Career Institute (DCI) in Richtung Full Stack Delevoper und dieser
+            Bereich hat eine große Leidenschaft für mich entwickelt. Seit Mai 2021 arbeite ich  als Frontend Developer bei eClever Entwicklung OHG.`}
           </p>
         </div>
 
@@ -45,7 +46,7 @@ function About() {
                 <ul>
                   <li>
                     <i className="icofont-rounded-right"></i>{" "}
-                    <strong>Age:</strong> 32
+                    <strong>Age:</strong> {age}
                   </li>
                   <li>
                     <i className="icofont-rounded-right"></i>{" "}

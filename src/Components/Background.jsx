@@ -1,8 +1,16 @@
-import React from "react";
-import Particles from "react-particles-js";
+import React, { useCallback } from "react";
+import Particles from "react-particles";
 import Typed from "react-typed";
+import { loadFull } from "tsparticles";
 
 function Background() {
+  const particlesInit = useCallback(async (engine) => {
+    await loadFull(engine);
+  }, []);
+
+  const particlesLoaded = useCallback(async (container) => {
+    //do nothing
+  }, []);
   return (
     <div id="hero">
       <section className="d-flex flex-column justify-content-center align-items-center">
@@ -30,6 +38,8 @@ function Background() {
         </div>
       </section>
       <Particles
+        init={particlesInit}
+        loaded={particlesLoaded}
         params={{
           particles: {
             number: {

@@ -92,6 +92,13 @@ function Lebenslauf() {
           <div className="col-lg-6" data-aos="fade-up" data-aos-delay="100">
             <h3 className="resume-title">Beschäftigung</h3>
             <div className="resume-item">
+              <h4>Frontend Developer</h4>
+              <h5>Mai 2021 - Laufend</h5>
+              <p>
+                <em>Bei eClever Entwicklung OHG in Leipzig </em>
+              </p>
+            </div>
+            <div className="resume-item">
               <h4>Teilzeitjob als Auslieferungsfahrer</h4>
               <h5>July 2019 - January 2020</h5>
               <p>
